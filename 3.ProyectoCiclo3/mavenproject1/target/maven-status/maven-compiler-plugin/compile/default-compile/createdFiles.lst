@@ -1,0 +1,6 @@
+servlets\PruebaServlet.class
+beans\Usuario.class
+beans\Producto.class
+beans\HistorialActividad.class
+test\OperacionesDB.class
+connection\DBConnection.class
